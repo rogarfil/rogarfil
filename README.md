@@ -55,4 +55,5 @@ Here are some ideas to get you started:
 <hr>          
 <div style="display: inline_block">
   <a href="https://www.youtube.com/channel/UCSyj1V98-PxA9f6EH-h5gKA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/Rogarfil" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
