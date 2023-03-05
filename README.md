@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! Eu sou o Rogério Garcia, em que posso ajudá-lo?  👋
 
 <!--
 **rogarfil/rogarfil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Atualmente trabalho como Full Stack PHP Developer
-- 🌱 Atualmente estou estudando na Data Science Academy e busco aprender por iniciativa MongoDB.
+- 🔭 Atualmente trabalho como <b>Full Stack PHP Developer</b>
+- 🌱 Atualmente estou estudando na <b>Data Science Academy</b> e busco aprender por iniciativa <b>MongoDB</b>.
 - 📫 Contate-me pelo e-mail: garcia@rogarfil.com.br
 
 <div>
