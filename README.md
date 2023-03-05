@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Atualmente trabalho como <b>Full Stack PHP Developer</b>
-- 🌱 Atualmente estou estudando na <b>Data Science Academy</b> e busco aprender por iniciativa <b>MongoDB</b>.
+- 🌱 Atualmente estou estudando na <b>Data Science Academy</b>, <b>UDEMY Inc.</b> e <b>UpInside Treinamentos</b>.
 - 📫 Contate-me pelo e-mail: garcia@rogarfil.com.br
 
 <div>
