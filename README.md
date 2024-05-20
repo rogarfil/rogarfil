@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     
 ### Tecnologias e Ferramentas
 <div style="display: inline_block">
-  <h2>Front-End</h2>
+  <h4>Front-End</h4>
   <img align="center" alt="Rogarfil-Apache" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Rogarfil-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Rogarfil-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Rogarfil-Chrome" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" />
   <img align="center" alt="Rogarfil-Chrome" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" />
   <img align="center" alt="Rogarfil-Chrome" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" />
-  <h2>Back-End</h2>
+  <h4>Back-End</h4>
   <img align="center" alt="Rogarfil-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Rogarfil-DJango" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Rogarfil-Apache" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
@@ -72,3 +72,33 @@ Here are some ideas to get you started:
   <a href="https://www.facebook.com/rogeriofilho.garcia" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rogeriofilho-garcia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+### Projetos Destacados
+- 🏆 <a href="https://github.com/rogarfil/Projeto_CRUD-generico-em-PDO-MVC-com-PHP">Projeto CRUD genérico em PDO MVC com PHP</a>: Toda a estrutura para auxiliar nas operações de diversos SGBDS construindo instruções de INSERT, UPDATE E DELETE e o SELECT para receber integralmente via parâmetro.
+- 🏆 <a href="https://github.com/ncatisecad/django-qrcode">QRCode para presença</a>(Private): Projeto realizado para SECAD-TO na linguagem Python + Django Framework, com acesso privado pelo CPF, 1º cadastra o evento; 2º realiza o upload de um arquivo .csv e salva no banco gerando o QRCode que é salvo na pasta da aplicação, 3º disparam os e-mail’s para os cadastrados no evento, 4º realiza a leitura do QRCode e marca a presença ao mesmo tempo que é disparado o e-mail de confirmação.
+- 🏆 <a href="https://github.com/ncatisecad/projectContract">projectContract</a>(Private): Projeto realizado para SECAD-TO na linguagem Python + Django Framework, com acesso privado pelo CPF, contendo as CONSULTAS de (Alíquota, Calendário, Função), RELATÓRIOS com os índices realizados (vários Relatórios), CONTRATOS (Novo Contrato juntamente com vários Cadastro de Pessoas), USUÁRIO (Gerenciador de Usuário) e Sair
+
+### Perguntas Frequentes
+- 🤔 <b>Em que projetos você está trabalhando atualmente?</b>
+  - Estou desenvolvendo aplicações web utilizando Django e PHP.
+
+- 💬 <b>Sobre o que posso te perguntar?</b>
+  - Desenvolvimento Full Stack, Django, PHP, e melhores práticas em desenvolvimento de software.
+
+- 👯 <b>Como posso colaborar com você?</b>
+  - Estou aberto a colaborações em projetos open source e discussões sobre novas tecnologias.
+
+### Curiosidade
+- ⚡ <b>Curiosidade</b>: Adoro explorar novas tecnologias e estou sempre em busca de aprimorar minhas habilidades.
+Essas são algumas ideias para melhorar a apresentação do seu perfil no GitHub. Lembre-se de que a
+
+
+
+
+
+
+
+
+
+
+
