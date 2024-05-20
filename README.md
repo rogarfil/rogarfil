@@ -34,6 +34,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Rogarfil-Chrome" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Rogarfil-Composer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img align="center" alt="Rogarfil-DJango" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Rogarfil-DJango" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="Rogarfil-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
   <img align="center" alt="Rogarfil-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="Rogarfil-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -41,6 +42,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Rogarfil-Chrome" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" />
   <img align="center" alt="Rogarfil-Chrome" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" />
   <img align="center" alt="Rogarfil-Chrome" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" />
+  <img align="center" alt="Rogarfil-Chrome" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" />
   <h2>Back-End</h2>
   <img align="center" alt="Rogarfil-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Rogarfil-DJango" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -51,7 +53,12 @@ Here are some ideas to get you started:
   <img align="center" alt="Rogarfil-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" />
   <img align="center" alt="Rogarfil-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
   <img align="center" alt="Rogarfil-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
-  <img align="center" alt="Rogarfil-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align="center" alt="Rogarfil-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />  
+  <img align="center" alt="Rogarfil-DJango" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />  
+  <img align="center" alt="Rogarfil-DJango" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" />
+  <img align="center" alt="Rogarfil-DJango" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+          
+          
 </div>
   
 ##
