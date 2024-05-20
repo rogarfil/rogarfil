@@ -14,17 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<hr>
 
+### Sobre Mim
 - 🔭 Atualmente trabalho como <b>Full Stack</b> utilizando as linguagem <b>Django Developer</b> e <b>PHP Developer</b>
-- 🌱 Atualmente estou estudando na <b>Data Science Academy</b>, <b>UDEMY Inc.</b>, <b>UpInside Treinamentos</b> e <b>Dio - Python AI Backend Developer</b>.
+- 🌱 Atualmente estou estudando na <b>Data Science Academy</b>, <b>UDEMY Inc.</b>, <b>UpInside Treinamentos</b> e <b>Dio - Python AI Backend Developer</b>, entre outros que realizo periodicamente para minha base de conhecimentos.
 - 📫 Contate-me pelo e-mail: garcia@rogarfil.com.br
 
+### Estatísticas do GitHub
 <div>
   <a href="https://www.rogarfil.com.br" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogarfil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogarfil&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
-
+    
+### Tecnologias e Ferramentas
 <div style="display: inline_block">
   <h2>Front-End</h2>
   <img align="center" alt="Rogarfil-Apache" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -56,12 +60,10 @@ Here are some ideas to get you started:
   <img align="center" alt="Rogarfil-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />  
   <img align="center" alt="Rogarfil-DJango" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />  
   <img align="center" alt="Rogarfil-DJango" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" />
-  <img align="center" alt="Rogarfil-DJango" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-          
-          
+  <img align="center" alt="Rogarfil-DJango" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />         
 </div>
   
-##
+### Conecte-se Comigo
   
 <div style="display: inline_block">
   <a href="https://www.youtube.com/channel/UCSyj1V98-PxA9f6EH-h5gKA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
