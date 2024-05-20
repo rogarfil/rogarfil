@@ -19,11 +19,10 @@ Here are some ideas to get you started:
 ### Sobre Mim
 - 🔭 Atualmente trabalho como <b>Full Stack</b> utilizando as linguagem <b>Django Developer</b> e <b>PHP Developer</b>
 - 🌱 Atualmente estou estudando na <b>Data Science Academy</b>, <b>UDEMY Inc.</b>, <b>UpInside Treinamentos</b> e <b>Dio - Python AI Backend Developer</b>, entre outros que realizo periodicamente para minha base de conhecimentos.
-- 📫 Contate-me pelo e-mail: garcia@rogarfil.com.br
+- 📫 Contate-me pelo e-mail: garcia@rogarfil.com.br ou pelo nosso site: <a href="https://www.rogarfil.com.br" target="_blank">rogarfil.com.br</a>
 
 ### Estatísticas do GitHub
 <div>
-  <a href="https://www.rogarfil.com.br" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogarfil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogarfil&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
