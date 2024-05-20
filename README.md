@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Atualmente trabalho como <b>Full Stack PHP Developer</b>
-- 🌱 Atualmente estou estudando na <b>Data Science Academy</b>, <b>UDEMY Inc.</b> e <b>UpInside Treinamentos</b>.
+- 🔭 Atualmente trabalho como <b>Full Stack</b> utilizando as linguagem <b>Django Developer</b> e <b>PHP Developer</b>
+- 🌱 Atualmente estou estudando na <b>Data Science Academy</b>, <b>UDEMY Inc.</b>, <b>UpInside Treinamentos</b> e <b>Dio - Python AI Backend Developer</b>.
 - 📫 Contate-me pelo e-mail: garcia@rogarfil.com.br
 
 <div>
