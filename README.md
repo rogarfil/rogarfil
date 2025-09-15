@@ -69,10 +69,3 @@ Sou **Full Stack Developer**, especializado em **Django** e **PHP**. Estou sempr
 
 ### Curiosidade
 - **Curiosidade**: Estou sempre em busca de novos conhecimentos e atualizações tecnológicas.
-
----
-
-**Observações:** 
-- Removi algumas redundâncias e simplifiquei a estrutura para melhorar a objetividade.
-- Mantive as imagens e ícones para manter a visualização amigável.
-- Corrigi alguns links privados, mas eles ainda precisam do acesso adequado para serem visualizados.
