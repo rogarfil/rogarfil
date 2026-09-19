@@ -1,6 +1,6 @@
 # Olá, eu sou Rogério Garcia Filho 👋
 
-### Analista de Sistemas III | Arquitetura de Sistemas | Desenvolvimento Full Stack
+### Analista de Sistemas III | Arquitetura de Sistemas | Full Stack | Python • Django • FastAPI • React • TypeScript • PostgreSQL • Docker
 
 Profissional de Tecnologia da Informação com mais de três décadas de experiência em desenvolvimento de sistemas, arquitetura de soluções e processos institucionais.
 
