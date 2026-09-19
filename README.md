@@ -1,4 +1,6 @@
- ### **Rogério Garcia Filho** — Analista de Sistemas | Arquitetura de Sistemas | Desenvolvimento Full Stack
+ ### Rogério Garcia Filho
+ 
+ **Analista de Sistemas | Arquitetura de Sistemas | Desenvolvimento Full Stack**
 
 **Python • Django • FastAPI • React • TypeScript • PostgreSQL • Docker**
 
