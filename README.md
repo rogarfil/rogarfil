@@ -1,7 +1,6 @@
- ### Olá! Eu sou Rogério Garcia, como posso ajudá-lo? 👋
+ ### **Rogério Garcia Filho** — Analista de Sistemas | Arquitetura de Sistemas | Desenvolvimento Full Stack
 
-**Perfil Profissional:**
-Sou **Full Stack Developer**, especializado em **Django** e **PHP**. Estou sempre atualizando meus conhecimentos com cursos em **Data Science Academy**, **UDEMY**, **thouse** e **DIO**.
+**Python • Django • FastAPI • React • TypeScript • PostgreSQL • Docker**
 
 **Contato:**
 📧 E-mail: [garcia@rogarfil.com.br](mailto:garcia@rogarfil.com.br)  
